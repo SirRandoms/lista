@@ -51,19 +51,19 @@ Acestream://57e284a3c13100baeff7a88dc50949585c9f1277
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc12.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 12", M.Liga De Campeones 12
 Acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
 
-#EXTINF:-1 tvg-logo="https://tvepg.eu/img/spain/logo/movistar_laliga_1.png" group-title="LIGA" tvg-id="M.Liga 1080 Multi", M.Liga 1080 Multi
+#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M.Liga 1080 Multi", M.Liga 1080 Multi
 Acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
 
-#EXTINF:-1 tvg-logo="https://tvepg.eu/img/spain/logo/movistar_laliga_1.png" group-title="LIGA" tvg-id="M.Liga 1080", M.Liga 1080
+#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M.Liga 1080", M.Liga 1080
 Acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
 
-#EXTINF:-1 tvg-logo="https://tvepg.eu/img/spain/logo/movistar_laliga_1.png" group-title="LIGA" tvg-id="M.Liga 720", M.Liga 720
+#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M.Liga 720", M.Liga 720
 Acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
 
-#EXTINF:-1 tvg-logo="https://tvepg.eu/img/spain/logo/movistar_laliga_2.png" group-title="LIGA" tvg-id="M.Liga 2 1080", M.Liga 2 1080
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-2-1836.png" group-title="LIGA" tvg-id="M.Liga 2 1080", M.Liga 2 1080
 Acestream://4229d640fecf3c0897674241bcf851b67f4310e3
 
-#EXTINF:-1 tvg-logo="https://tvepg.eu/img/spain/logo/movistar_laliga_2.png" group-title="LIGA" tvg-id="M.Liga 2 720", M.Liga 2 720
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-2-1836.png" group-title="LIGA" tvg-id="M.Liga 2 720", M.Liga 2 720
 Acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="Dazn La Liga 1080 Multi", Dazn La Liga 1080 Multi
@@ -111,7 +111,11 @@ Acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="DAZN" tvg-id="DAZN F1 720", DAZN F1 720
 Acestream://5853ff69c8588fe23ff5555261d4a43e6ad2f1ae
 
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 1080", Evento del momento 1080
+Acestream://137ccef306febbd4509b5a374f08df1151bf388c
 
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 720", Evento del momento 720
+Acestream://4cff8e802e9fb0b43fd4575444c3abac9ac00b40
 
 
 #EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", vacio
