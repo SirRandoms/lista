@@ -198,8 +198,16 @@ acestream://cbf281d5e481697aa4184fe1de5e069928c95057
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/5z1nOkrDX2JPsYHlBFv8Q.jpg" group-title="TDT" tvg-id="Cuatro HD", Cuatro HD
 acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
 
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/5z1nOkrDX2JPsYHlBFv8Q.jpg" group-title="TDT" tvg-id="Antena 1", Antena 1
-https://www.cool-etv.net/ch/an1.htm#!
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/N9zmT3CUfT85YJ7mOmiYNl400iMKdNHPz1IkvEujD35z5mIgV-eXwpInEr6KKcKc8A" group-title="ROMANIA" tvg-id="Antena 1", Antena 1
+acestream://4cee0a14083d14caf86bd9a7e91ef651f1b94106
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1200px-Logo_Pro_TV_%282017%29.svg.png" group-title="ROMANIA" tvg-id="Pro Tv", Pro Tv
+acestream://699bef505239ed11ddae3e0f96d007dbaa01d0aa
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Kanal_D_Rumania_2007.svg/revision/latest?cb=20220707124215&path-prefix=es" group-title="ROMANIA" tvg-id="Kanal D", Kanal D
+acestream://0d496aeee384ba7ec6b552fc826680e614dfe74e/
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", vacio
 Acestream://
