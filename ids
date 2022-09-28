@@ -21,8 +21,12 @@ Acestream://f2b785193cfa99c581287be39e2fb5a73827957b
 #EXTINF:-1 tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_1_757f_412_1_c00000_0_0_0.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 3 720", M.Liga De Campeones 3 720
 Acestream://f588f41735c0c8ec0c412ef25ca5e5ac3b3626b9
 
-#EXTINF:-1 tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_1_757f_412_1_c00000_0_0_0.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 3 720", M.Liga De Campeones 3 720
-Acestream://f588f41735c0c8ec0c412ef25ca5e5ac3b3626b9
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP3.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 4", M.Liga De Campeones 4
+Acestream://8a9018cccaa36014ab0f050e5132d5ee264f7737
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_5.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 5", M.Liga De Campeones 5
+Acestream://662cceb5a2b23f2150172df24247fa220d8d95d4
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", vacio
