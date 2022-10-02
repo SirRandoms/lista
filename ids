@@ -142,7 +142,7 @@ acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971
 acestream://49c35606668ebf7a895434ec4c9243a163d87718
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rm.png" group-title="TDT" tvg-id="Real Madrid TV - 1080", Real Madrid TV - 1080
-Acestream://d644f9276c8c204882ccc4e80cc26f7986830be8
+acestream://d644f9276c8c204882ccc4e80cc26f7986830be8
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="TDT" tvg-id="Barça Tv", Barça TV
 acestream://65c141632af256d70da66c767ba74360042b4396
@@ -163,10 +163,10 @@ acestream://eca5dfd22ce7fc352205749f78ac2c1dff5b5a94
 http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="TDT" tvg-id="Toros", Toros
-Acestream://1c23860f47c37595a322e07b5171098e2a3405b9
+acestream://1c23860f47c37595a322e07b5171098e2a3405b9
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/3890e6d3-e4fc-495a-8026-430c6920f0e7/402020467013211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="NBA TV", NBA TV
-Acestream://6ba718a6f5a638e2ae15de6904ea2fa553895856
+acestream://6ba718a6f5a638e2ae15de6904ea2fa553895856
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dOC-QZSgvz3pwKQQjK5x02qAo8Hy78Io57y11u7zZQLWbhrwqRBpKqIPDBaDU7F4LCc" group-title="Sport Tv" tvg-id="Sport Tv 1 - 1080", Sport Tv 1 - 1080
 acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
