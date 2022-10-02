@@ -216,9 +216,23 @@ acestream://0c8935087510ee1c5117243a6cc46f9d6d795faf
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem5.png" group-title="DEPORTES" tvg-id="M.Deportes 5 1080", M.Deportes 5 1080
 acestream://478833f6390f04e95c6d94180a784b78ad540d2f
 
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762962501269_image-header_pDach_1662550975000" group-title="ALEMANIA" tvg-id="(DE) DAZN 1", (DE) DAZN 1
+acestream://897e73c9d578848f596585314ecb9ae067c0e229
 
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762965573106_image-header_pDach_1662550976000" group-title="ALEMANIA" tvg-id="(DE) DAZN 2", (DE) DAZN 2
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="UK" tvg-id="BT SPORT 1", BT SPORT 1
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-2-uk.svg" group-title="UK" tvg-id="BT SPORT 2", BT SPORT 2
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-3-uk.svg" group-title="UK" tvg-id="BT SPORT 3", BT SPORT 3
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-4-uk.svg" group-title="UK" tvg-id="BT SPORT 4", BT SPORT 4
+acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 
 
 #EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", vacio
