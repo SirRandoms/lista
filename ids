@@ -234,6 +234,18 @@ acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-4-uk.svg" group-title="UK" tvg-id="BT SPORT 4", BT SPORT 4
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="UK" tvg-id="Premier Sports 1", Premier Sports 1
+acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
+
+#EXTINF:-1 tvg-logo="https://sport-onthebox.com/wp-content/uploads/2019/08/Premier-Sports-2.png" group-title="UK" tvg-id="Premier Sports 2", Premier Sports 2
+acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
+
+#EXTINF:-1 tvg-logo="https://sport-onthebox.com/wp-content/uploads/2019/08/Premier-Sports-2.png" group-title="UK" tvg-id="Premier Sports 2", Premier Sports 2
+acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
+
+
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", vacio
 Acestream://
