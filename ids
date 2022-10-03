@@ -288,9 +288,11 @@ http://99ab99.com:80/Veranew2701/TUzhu79ux9/25778
 #EXTINF:-1 tvg-logo="https://graffica.info/wp-content/uploads/2016/04/lasexta_nuevologo_1-1200x927.jpg" group-title="TDT" tvg-id="Sexta HD", Sexta HD
 http://99ab99.com:80/Veranew2701/TUzhu79ux9/25780
 
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/u/r/xeurosport1.jpg.pagespeed.ic.onsGVq_zan.jpg" group-title="Varios" tvg-id="Eurosport 1", Eurosport 1
+acestream://40da37534656efcc6179c1b7693335d5e8212e43
 
-
-
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/u/r/xeurosports2.jpg.pagespeed.ic.WVtAf7aR5M.jpg" group-title="Varios" tvg-id="Eurosport 2", Eurosport 2
+acestream://1954779c721fc7d87eb6d7df7ab11bf751cebb3b
 
 
 
