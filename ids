@@ -193,10 +193,7 @@ acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg" group-title="TDT" tvg-id="Telecinco HD", Telecinco HD
-acestream://cbf281d5e481697aa4184fe1de5e069928c95057
-
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/5z1nOkrDX2JPsYHlBFv8Q.jpg" group-title="TDT" tvg-id="Cuatro HD", Cuatro HD
-acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
+http://99ab99.com:80/Veranew2701/TUzhu79ux9/40615
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES" tvg-id="M.Deportes 1080", M.Deportes 1080
 acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486
@@ -281,6 +278,20 @@ Acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
 #EXTINF:-1 tvg-logo="https://www.google.com/search?q=la+2&rlz=1C1ONGR_esES1025ES1025&sxsrf=ALiCzsbZqPBcTcpjnwOtfkEmtP_KR8v28A:1664810200851&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj7mo-lrcT6AhWH04UKHRoCAvgQ_AUoA3oECAIQBQ&biw=1920&bih=937&dpr=1#imgrc=NUWkZyLoy8R5DM" group-title="TDT" tvg-id="La 2", La 2
 https://rtvelivestream.akamaized.net/segments/la2/la2_main_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg" group-title="TDT" tvg-id="Antena 3 HD", Antena 3 HD
+http://99ab99.com:80/Veranew2701/TUzhu79ux9/25781
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/5z1nOkrDX2JPsYHlBFv8Q.jpg" group-title="TDT" tvg-id="Cuatro HD", Cuatro HD
+http://99ab99.com:80/Veranew2701/TUzhu79ux9/25778
+
+#EXTINF:-1 tvg-logo="https://graffica.info/wp-content/uploads/2016/04/lasexta_nuevologo_1-1200x927.jpg" group-title="TDT" tvg-id="Sexta HD", Sexta HD
+http://99ab99.com:80/Veranew2701/TUzhu79ux9/25780
+
+
+
+
+
 
 
 
