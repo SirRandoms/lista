@@ -190,7 +190,7 @@ acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="TDT" tvg-id="La 1 HD", La 1 HD
-acestream://b41d52a733be6f4709db3bdf33e260de2b67d27a
+https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg" group-title="TDT" tvg-id="Telecinco HD", Telecinco HD
 acestream://cbf281d5e481697aa4184fe1de5e069928c95057
@@ -216,10 +216,10 @@ acestream://0c8935087510ee1c5117243a6cc46f9d6d795faf
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem5.png" group-title="DEPORTES" tvg-id="M.Deportes 5 1080", M.Deportes 5 1080
 acestream://478833f6390f04e95c6d94180a784b78ad540d2f
 
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762962501269_image-header_pDach_1662550975000" group-title="ALEMANIA" tvg-id="(DE) DAZN 1", (DE) DAZN 1
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762962501269_image-header_pDach_1662550975000" group-title="Alemania" tvg-id="(DE) DAZN 1", (DE) DAZN 1
 acestream://897e73c9d578848f596585314ecb9ae067c0e229
 
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762965573106_image-header_pDach_1662550976000" group-title="ALEMANIA" tvg-id="(DE) DAZN 2", (DE) DAZN 2
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762965573106_image-header_pDach_1662550976000" group-title="Alemania" tvg-id="(DE) DAZN 2", (DE) DAZN 2
 acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="UK" tvg-id="BT SPORT 1", BT SPORT 1
@@ -273,6 +273,16 @@ http://99ab99.com:80/Veranew2701/TUzhu79ux9/40661
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/x-2qaH-7TBsyAIvenEGj4Y3KTO_jMWEp1sma9w7UFSaEapUhIb6V8VN-rESN6eMLut3qrlI2YA=s900-c-k-c0x00ffffff-no-rj" group-title="TDT" tvg-id="#0", #0
 http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/96805
 
+#EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="UK" tvg-id="Sky Sports Premier League", Sky Sports Premier League
+Acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-main-event-logo.png" group-title="UK" tvg-id="Sky Sports Maint Event", Sky Sports Maint Event
+Acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+
+#EXTINF:-1 tvg-logo="https://www.google.com/search?q=la+2&rlz=1C1ONGR_esES1025ES1025&sxsrf=ALiCzsbZqPBcTcpjnwOtfkEmtP_KR8v28A:1664810200851&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj7mo-lrcT6AhWH04UKHRoCAvgQ_AUoA3oECAIQBQ&biw=1920&bih=937&dpr=1#imgrc=NUWkZyLoy8R5DM" group-title="TDT" tvg-id="La 2", La 2
+https://rtvelivestream.akamaized.net/segments/la2/la2_main_dvr.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", vacio
-Acestream://
+acestream://
