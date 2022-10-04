@@ -190,10 +190,10 @@ acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="TDT" tvg-id="La 1 HD", La 1 HD
-https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
+http://venomtt.com:8000/50439554698660/93784340086574/236900
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg" group-title="TDT" tvg-id="Telecinco HD", Telecinco HD
-http://99ab99.com:80/Veranew2701/TUzhu79ux9/40615
+http://venomtt.com:8000/50439554698660/93784340086574/236883
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES" tvg-id="M.Deportes 1080", M.Deportes 1080
 acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486
@@ -256,16 +256,16 @@ http://99ab99.com:80/Veranew2701/TUzhu79ux9/25794
 http://99ab99.com:80/Veranew2701/TUzhu79ux9/25790
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/640px-Series_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Series", Movistar Series
-http://99ab99.com:80/Veranew2701/TUzhu79ux9/25792
+http://venomtt.com:8000/50439554698660/93784340086574/236812
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png" group-title="TDT" tvg-id="Caza y Pesca", Caza y Pesca
 http://99ab99.com:80/Veranew2701/TUzhu79ux9/25810
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/2560px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Estrenos 2", Movistar Estrenos 2
-http://185.217.136.221:8080/SLes5WFhy38G/WbcRzBwkxNbd/74308?token=TkZRUUZbFQsaUVUHUlMEUlNSAlACCQFVVF0ADwFQAFdWBQ0IBAIBAw9DHBYRQxQHAw8+DFEbDlQGCgMAHBZHR1AWZllREQ0TC1gEA1YVSkAWCwwAFwMFVQQNBAsHBQcDGUZJWVERDRMKVgcDVhVKQAcaFQBHV1UPbV1WTllXVxYPCkxcWR8VXlY+VFEPVggGQFhDVBcVFgpBSRECXkFeWBlGW1lBQVZFXUMKFlAPUVJATkMGWkxaF0BAEQIScWEWGUZcSEFWWUJRDl4WWBUSEUBOQwxGZkYGQU1BXVFZV0YXXhsAFx8VXFkZb1cNWQgHARYICltKFlkQCBEUElldWlwQVkJqQ15VGlsSB1MCX1ZAHw==
+http://venomtt.com:8000/50439554698660/93784340086574/236837
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="TDT" tvg-id="Comedy Central", Comedy Central
-http://99ab99.com:80/Veranew2701/TUzhu79ux9/40661
+http://venomtt.com:8000/50439554698660/93784340086574/236846
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/x-2qaH-7TBsyAIvenEGj4Y3KTO_jMWEp1sma9w7UFSaEapUhIb6V8VN-rESN6eMLut3qrlI2YA=s900-c-k-c0x00ffffff-no-rj" group-title="TDT" tvg-id="#0", #0
 http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/96805
@@ -306,8 +306,35 @@ http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/99240
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image59616610408.jpg" group-title="Rumania" tvg-id="Digi Sport 4", Digi Sport 4
 http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/99241
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Clásicos", Movistar Clásicos
+http://venomtt.com:8000/50439554698660/93784340086574/236824
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg/640px-Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Cine Ñ", Movistar Cine Ñ
+http://venomtt.com:8000/50439554698660/93784340086574/236820
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Movistar_Disney.svg/1200px-Movistar_Disney.svg.png" group-title="Movistar" tvg-id="Movistar Diseny+", Movistar Disney+
+http://venomtt.com:8000/50439554698660/93784340086574/236819
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Series_2_por_Movistar_Plus%2B_2022_logo.svg/205px-Series_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Series 2", Movistar Series 2
+http://venomtt.com:8000/50439554698660/93784340086574/236815
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-zdnIW7tLWOKXewm-pFth5gt6XniJWEvGYhqMqzs4=s900-c-k-c0x00ffffff-no-rj" group-title="TDT" tvg-id="Fox FHD", Fox FHD
+http://venomtt.com:8000/50439554698660/93784340086574/236777
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1200px-DreamWorks_Channel_Logo.svg.png" group-title="TDT" tvg-id="Dreamworks FHD", Dreamworks FHD
+http://venomtt.com:8000/50439554698660/93784340086574/236775
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png" group-title="TDT" tvg-id="HOLLYWOOD FHD", HOLLYWOOD FHD
+http://venomtt.com:8000/50439554698660/93784340086574/236773
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ZH-FZJf7AV0T7nAK_OBw4QNSF-1G8rg1kAXjnxbnuKYWrVvK6XHA4knhE3fb_1m8scy30E6PBw=s900-c-k-c0x00ffffff-no-rj" group-title="TDT" tvg-id="Canal Cocina", Canal Cocina
+http://venomtt.com:8000/50439554698660/93784340086574/236664
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="TDT" tvg-id="National Georaphic Wild", National Georaphic Wild
+http://venomtt.com:8000/50439554698660/93784340086574/236655
+
+#EXTINF:-1 tvg-logo="https://www.iberaliago.com/static/images/logo/logo-vertical.png" group-title="TDT" tvg-id="Iberalia TV", Iberalia Tv
+http://venomtt.com:8000/50439554698660/93784340086574/236635
 
 
 
