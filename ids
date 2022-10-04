@@ -294,6 +294,23 @@ acestream://40da37534656efcc6179c1b7693335d5e8212e43
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/u/r/xeurosports2.jpg.pagespeed.ic.WVtAf7aR5M.jpg" group-title="Varios" tvg-id="Eurosport 2", Eurosport 2
 acestream://1954779c721fc7d87eb6d7df7ab11bf751cebb3b
 
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image24452744424.webp" group-title="Rumania" tvg-id="Digi Sport 1", Digi Sport 1
+acestream://5de76e366b44da7f88363a74aa2fa1bef30395fe
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image39730317658.jpg" group-title="Rumania" tvg-id="Digi Sport 2", Digi Sport 2
+http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/99239
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image41244484205.jpg" group-title="Rumania" tvg-id="Digi Sport 3", Digi Sport 3
+http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/99240
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image59616610408.jpg" group-title="Rumania" tvg-id="Digi Sport 4", Digi Sport 4
+http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/99241
+
+
+
+
+
+
 
 
 
