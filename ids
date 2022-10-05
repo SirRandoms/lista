@@ -336,6 +336,15 @@ http://venomtt.com:8000/50439554698660/93784340086574/236655
 #EXTINF:-1 tvg-logo="https://www.iberaliago.com/static/images/logo/logo-vertical.png" group-title="TDT" tvg-id="Iberalia TV", Iberalia Tv
 http://venomtt.com:8000/50439554698660/93784340086574/236635
 
+#EXTINF:-1 tvg-logo="" group-title="Bein France" tvg-id="Bein Sport 1", Bein Sport 1
+acestream://54cbfaf8ad446499aae28ae50b512d95c263f811
+
+#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", vacio
+acestream://
+
+#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", vacio
+acestream://
+
 
 
 
