@@ -336,16 +336,23 @@ http://venomtt.com:8000/50439554698660/93784340086574/236655
 #EXTINF:-1 tvg-logo="https://www.iberaliago.com/static/images/logo/logo-vertical.png" group-title="TDT" tvg-id="Iberalia TV", Iberalia Tv
 http://venomtt.com:8000/50439554698660/93784340086574/236635
 
-#EXTINF:-1 tvg-logo="" group-title="Bein France" tvg-id="Bein Sport 1", Bein Sport 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Bein France" tvg-id="Bein Sport 1", Bein Sport 1
 acestream://54cbfaf8ad446499aae28ae50b512d95c263f811
 
-#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", vacio
-acestream://
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Bein France" tvg-id="Bein Sport 2", Bein Sport 2
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 
-#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", vacio
-acestream://
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Bein France" tvg-id="Bein Sport 3", Bein Sport 3
+acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1280px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="UK" tvg-id="Sky Sports Arena", Sky Sports Arena
+acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fmatch_ru_futbol_1.jpg" group-title="Rusia" tvg-id="Match Football 1", Match Football 1 
+acestream://b28db77c5084da7993395d77df96c30bb134f0a9
+
+EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-match-football-3-735.png" group-title="Rusia" tvg-id="Match Football 3", Match Football 3
+acestream://b6baa046075d82da300fc1b16de96067a8b9540e
 
 
 
