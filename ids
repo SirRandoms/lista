@@ -357,6 +357,49 @@ acestream://b6baa046075d82da300fc1b16de96067a8b9540e
 #EXTINF:-1 tvg-logo="https://www.giztele.com/wp-content/uploads/2020/08/la-resistencia.jpg" group-title="Movistar" tvg-id="Movistar Resistencia", Movistar Resistencia
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/164752
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/1200px-Logo_Antena_1_%282010%29.svg.png" group-title="Rumania" tvg-id="Antena 1", Antena 1
+http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/99227
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Antena_3_Rumania_2005.png/revision/latest?cb=20200827193717&path-prefix=es" group-title="Rumania" tvg-id="Antena 3", Antena 3
+http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/99228
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1200px-Logo_Pro_TV_%282017%29.svg.png" group-title="Rumania" tvg-id="Pro Tv", Pro Tv
+http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/99210
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Kanal_D_HD_2011.png/revision/latest?cb=20200814051325&path-prefix=es" group-title="Rumania" tvg-id="Kanal D HD", Kanal D HD
+http://99ab99.com:80/Veranew2701/TUzhu79ux9/78567
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/PRO_Arena_%25_282022%25_29.webp" group-title="Rumania" tvg-id="Pro Arena", Pro Arena
+http://99ab99.com:80/Veranew2701/TUzhu79ux9/78586
+
+#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_5_2022_WHITE_RGB.png" group-title="UK" tvg-id="BT SPORT 5", BT SPORT 5
+http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/97129
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-6-uk.svg" group-title="UK" tvg-id="BT SPORT 6", BT SPORT 6
+http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/97130
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-8-uk.svg" group-title="UK" tvg-id="BT SPORT 8", BT SPORT 8
+http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/97131
+
+#EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1306-Logo.png" group-title="UK" tvg-id="Sky Sports F1", Sky Sports F1
+http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/97142
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1517198127756763137/kPtFZmVR_400x400.jpg" group-title="UK" tvg-id="UFC FIGHT PASS", UFC FIGHT PASS
+http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/97148
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dvs7H3Dnip3IyRopbaO_xZsA51RCT-qrKIC3wvXUgarM7D3ch0ulXvpWZcurthYJ6w" group-title="UK" tvg-id="Box Nation", Box Nation
+http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/97205
+
+
+
+
+
+
+
+
+
+
+
 
 
 
