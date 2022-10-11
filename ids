@@ -39,9 +39,6 @@ acestream://fdd9e3660059051660dbd7857443c2b807f258d0
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc9.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 9", M.Liga De Campeones 9
 acestream://69c95dc47b35dde559a6ef025c1b91c89646a17f
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc9.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 9", M.Liga De Campeones 9
-acestream://69c95dc47b35dde559a6ef025c1b91c89646a17f
-
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc10.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 10", M.Liga De Campeones 10
 acestream://df67afe5c5f5e82a3ae629d126727b006b65e676
 
@@ -112,13 +109,10 @@ acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
 acestream://5853ff69c8588fe23ff5555261d4a43e6ad2f1ae
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 1080", Evento del momento 1080
-acestream://137ccef306febbd4509b5a374f08df1151bf388c
+acestream://5c19b80926aa6dd5ff6ff2ba086bf6caa39c56fa
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 720", Evento del momento 720
-acestream://4cff8e802e9fb0b43fd4575444c3abac9ac00b40
-
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 720", Evento del momento 720
-acestream://4cff8e802e9fb0b43fd4575444c3abac9ac00b40
+acestream://172a0843a8f136659ab139af2d247bcfac602d05
 
 #EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="ESPN", ESPN
 acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
@@ -420,32 +414,28 @@ http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/138908
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="USA" tvg-id="ESPN Deportes", ESPN Deportes
 http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/138909
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones (Opción 2)", M.Liga De Campeones (Opción 2)
+http://99ab99.com:80/Veranew2701/TUzhu79ux9/40631
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 2 (Opción 2)", M.Liga De Campeones 2 (Opción 2)
+http://99ab99.com:80/Veranew2701/TUzhu79ux9/40647
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 3 (Opción 2)", M.Liga De Campeones 3 (Opción 2)
+http://99ab99.com:80/Veranew2701/TUzhu79ux9/40646
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc4.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 4 (Opción 2)", M.Liga De Campeones 4 (Opción 2)
+http://99ab99.com:80/Veranew2701/TUzhu79ux9/40645
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc5.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 5 (Opción 2)", M.Liga De Campeones 5 (Opción 2)
+http://99ab99.com:80/Veranew2701/TUzhu79ux9/40644
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc6.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 6 (Opción 2)", M.Liga De Campeones 6 (Opción 2)
+http://99ab99.com:80/Veranew2701/TUzhu79ux9/40643
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc7.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 7 (Opción 2)", M.Liga De Campeones 7 (Opción 2)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc8.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 8 (Opción 2)", M.Liga De Campeones 8 (Opción 2)
 
 
 
