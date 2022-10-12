@@ -459,11 +459,11 @@ acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Polsat_Sport_Premium_2_Poziome_2021.svg/2560px-Polsat_Sport_Premium_2_Poziome_2021.svg.png" group-title="Polonia" tvg-id="Polsat Sport Premium 2", Polsat Sport Premium 2
 http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/98172
 
+#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/a/x/n/axn.jpg" group-title="TDT" tvg-id="Axn HD", Axn HD
+http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/96848
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="TDT" tvg-id="Axn White", Axn White
+http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/96849
 
 
 
