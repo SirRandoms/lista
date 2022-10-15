@@ -574,21 +574,20 @@ acestream://169da1e59ffd3947c09d65eb1a0de0c831bef390
 #EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==" group-title="Alemania" tvg-id="Sky Sports Bundesliga", Sky Sports Bundesliga
 acestream://38d8789a448dd0eaf99e0274b555974e4e8f3f3b
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/9b899fab-9d20-45b3-9bc1-431efd0c7019/402978536009211.png?to=crop&type=webp&r=540x405&q=85" group-title="Belgica" tvg-id="Ziggo Sport Racing", Ziggo Sport Racing
+#EXTINF:-1 tvg-logo="https://www.delta.nl/media/1466/ziggo-sport-racing-delta.png?anchor=center&mode=crop&width=300&rnd=132048432721930000" group-title="Belgica" tvg-id="Ziggo Sport Racing", Ziggo Sport Racing
 acestream://77800bb07c1d69135024ee2379c97472eb12dd45
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/cd3001ad-a9ec-45a2-a2bb-e965605d45ed/402978443025211.png?to=crop&type=webp&r=540x405&q=85" group-title="Belgica" tvg-id="Ziggo Sport Select", Ziggo Sport Select
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Ziggo_Sport_Select.png" group-title="Belgica" tvg-id="Ziggo Sport Select", Ziggo Sport Select
 acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/812ce6c4-9cb3-4007-a436-e9eecccc9fce/402978510026211.png?to=crop&type=webp&r=540x405&q=85" group-title="Belgica" tvg-id="Ziggo Sport Voetbal", Ziggo Sport Voetbal
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_voetball.jpg" group-title="Belgica" tvg-id="Ziggo Sport Voetbal", Ziggo Sport Voetbal
 acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
 
+#EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2011/03/calle131.jpg" group-title="TDT" tvg-id="Calle 13", Calle 13
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127727
 
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="TDT" tvg-id="AMC", AMC
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127730
 
 
 
