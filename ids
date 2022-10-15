@@ -508,7 +508,11 @@ http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/141648
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 4K", M.Liga De Campeones 4K
 acestream://109c70ce6abc73be01a82571470e3402e4714819
 
+#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M.Liga 4K", M.Liga 4K
+acestream://684e5c085484e8ea79858713eeb7a3668baca29e
 
+#EXTINF:-1 tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png" group-title="Polonia" tvg-id="Eleven Sports 1 4K", Eleven Sports 1 4K
+acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
 
 
 
