@@ -220,10 +220,10 @@ acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-3-uk.svg" group-title="UK" tvg-id="BT SPORT 3", BT SPORT 3
-acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+http://www.pandar.plus:25461/02029886660921/2628382643/102236
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-4-uk.svg" group-title="UK" tvg-id="BT SPORT 4", BT SPORT 4
-acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
+acestream://bc2b90ebc65c837ddecfa387e44dc3717486e609
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="UK" tvg-id="Premier Sports 1", Premier Sports 1
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
@@ -345,6 +345,9 @@ acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fmatch_ru_futbol_1.jpg" group-title="Rusia" tvg-id="Match Football 1", Match Football 1 
 acestream://b28db77c5084da7993395d77df96c30bb134f0a9
 
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a734.png" group-title="Rusia" tvg-id="Match Football 2", Match Football 2
+acestream://3832fe79145c6ca781d8c4fc4badab59cdad0382
+
 EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-match-football-3-735.png" group-title="Rusia" tvg-id="Match Football 3", Match Football 3
 acestream://b6baa046075d82da300fc1b16de96067a8b9540e
 
@@ -370,34 +373,37 @@ http://99ab99.com:80/Veranew2701/TUzhu79ux9/78586
 http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/97129
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-6-uk.svg" group-title="UK" tvg-id="BT SPORT 6", BT SPORT 6
-http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/97130
+http://www.pandar.plus:25461/02029886660921/2628382643/102271
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-6-uk.svg" group-title="UK" tvg-id="BT SPORT 7", BT SPORT 7
+http://www.pandar.plus:25461/02029886660921/2628382643/102270
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-8-uk.svg" group-title="UK" tvg-id="BT SPORT 8", BT SPORT 8
-http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/97131
+http://www.pandar.plus:25461/02029886660921/2628382643/102269
 
 #EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1306-Logo.png" group-title="UK" tvg-id="Sky Sports F1", Sky Sports F1
-http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/97142
+http://www.pandar.plus:25461/02029886660921/2628382643/102252
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1517198127756763137/kPtFZmVR_400x400.jpg" group-title="UK" tvg-id="UFC FIGHT PASS", UFC FIGHT PASS
 http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/97148
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dvs7H3Dnip3IyRopbaO_xZsA51RCT-qrKIC3wvXUgarM7D3ch0ulXvpWZcurthYJ6w" group-title="UK" tvg-id="Box Nation", Box Nation
-http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/97205
+http://www.pandar.plus:25461/02029886660921/2628382643/102238
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="UK" tvg-id="Bein Sports 1 ENG", Bein Sports 1 ENG
-http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/149231
+http://www.pandar.plus:25461/02029886660921/2628382643/102216
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="UK" tvg-id="Bein Sports 2 ENG", Bein Sports 2 ENG
-http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/149232
+http://www.pandar.plus:25461/02029886660921/2628382643/102217
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="UK" tvg-id="Bein Sports 3 ENG", Bein Sports 3 ENG
-http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/149233
+http://www.pandar.plus:25461/02029886660921/2628382643/102218
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1483404245290336258/FA6wzSh7_400x400.jpg" group-title="UK" tvg-id="Sky Sports Racing", Sky Sports Racing
 http://99ab99.com:80/Veranew2701/TUzhu79ux9/81745
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/c4ht1v6TleNsx_3x7FWvClxF24VawKVHkwuLjGG1h7G4gFtqQUktfwMalREwhUsQlNSz8zeAUw=s900-c-k-c0x00ffffff-no-rj" group-title="UK" tvg-id="Sky Sports Football", Sky Sports Football
-http://99ab99.com:80/Veranew2701/TUzhu79ux9/81732
+http://www.pandar.plus:25461/02029886660921/2628382643/102226
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg" group-title="USA" tvg-id="Wwe Network", Wwe Network
 http://99ab99.com:80/Veranew2701/TUzhu79ux9/81584
@@ -409,7 +415,7 @@ http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/138906
 http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/138907
 
 #EXTINF:-1 tvg-logo="https://vivos.superliga-argentina.com/wp-content/uploads/espn-3-logo-grande.jpg" group-title="USA" tvg-id="ESPN 3", ESPN 3
-http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/138908
+http://www.pandar.plus:25461/02029886660921/2628382643/158168
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="USA" tvg-id="ESPN Deportes", ESPN Deportes
 http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/138909
@@ -603,6 +609,32 @@ http://www.pandar.plus:25461/02029886660921/2628382643/126980
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="UK" tvg-id="BT SPORT 1 FHD", BT SPORT 1 FHD
 acestream://6adb56e860967c5b1ba08e1bcb1eb2c4245e5842
+
+#EXTINF:-1 tvg-logo="https://footters.com/wp-content/uploads/2021/08/logo-black.png" group-title="Footters" tvg-id="FOOTTERS 1", FOOTTERS 1
+http://www.pandar.plus:25461/02029886660921/2628382643/151123
+#EXTINF:-1 tvg-logo="https://footters.com/wp-content/uploads/2021/08/logo-black.png" group-title="Footters" tvg-id="FOOTTERS 2", FOOTTERS 2
+http://www.pandar.plus:25461/02029886660921/2628382643/151124
+#EXTINF:-1 tvg-logo="https://footters.com/wp-content/uploads/2021/08/logo-black.png" group-title="Footters" tvg-id="FOOTTERS 3", FOOTTERS 3
+http://www.pandar.plus:25461/02029886660921/2628382643/151125
+#EXTINF:-1 tvg-logo="https://footters.com/wp-content/uploads/2021/08/logo-black.png" group-title="Footters" tvg-id="FOOTTERS 4", FOOTTERS 4
+http://www.pandar.plus:25461/02029886660921/2628382643/151126
+#EXTINF:-1 tvg-logo="https://footters.com/wp-content/uploads/2021/08/logo-black.png" group-title="Footters" tvg-id="FOOTTERS 5", FOOTTERS 5
+http://www.pandar.plus:25461/02029886660921/2628382643/151127
+#EXTINF:-1 tvg-logo="https://footters.com/wp-content/uploads/2021/08/logo-black.png" group-title="Footters" tvg-id="FOOTTERS 6", FOOTTERS 6
+http://www.pandar.plus:25461/02029886660921/2628382643/151128
+#EXTINF:-1 tvg-logo="https://footters.com/wp-content/uploads/2021/08/logo-black.png" group-title="Footters" tvg-id="FOOTTERS 7", FOOTTERS 7
+http://www.pandar.plus:25461/02029886660921/2628382643/151129
+#EXTINF:-1 tvg-logo="https://footters.com/wp-content/uploads/2021/08/logo-black.png" group-title="Footters" tvg-id="FOOTTERS 8", FOOTTERS 8
+http://www.pandar.plus:25461/02029886660921/2628382643/151130
+#EXTINF:-1 tvg-logo="https://footters.com/wp-content/uploads/2021/08/logo-black.png" group-title="Footters" tvg-id="FOOTTERS 9", FOOTTERS 9
+http://www.pandar.plus:25461/02029886660921/2628382643/151131
+#EXTINF:-1 tvg-logo="https://footters.com/wp-content/uploads/2021/08/logo-black.png" group-title="Footters" tvg-id="FOOTTERS 10", FOOTTERS 10
+http://www.pandar.plus:25461/02029886660921/2628382643/151132
+
+
+
+
+
 
 
 
