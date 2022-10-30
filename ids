@@ -157,10 +157,10 @@ acestream://eca5dfd22ce7fc352205749f78ac2c1dff5b5a94
 http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="TDT" tvg-id="Toros", Toros
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127766
+http://www.pandar.plus:25461/02029886660921/2628382643/127766
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/3890e6d3-e4fc-495a-8026-430c6920f0e7/402020467013211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="NBA TV", NBA TV
-acestream://6ba718a6f5a638e2ae15de6904ea2fa553895856
+http://www.pandar.plus:25461/02029886660921/2628382643/94155
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dOC-QZSgvz3pwKQQjK5x02qAo8Hy78Io57y11u7zZQLWbhrwqRBpKqIPDBaDU7F4LCc" group-title="Sport Tv" tvg-id="Sport Tv 1 - 1080", Sport Tv 1 - 1080
 acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
@@ -184,10 +184,10 @@ acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="TDT" tvg-id="La 1 HD", La 1 HD
-http://venomtt.com:8000/50439554698660/93784340086574/236900
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg" group-title="TDT" tvg-id="Telecinco HD", Telecinco HD
-http://venomtt.com:8000/50439554698660/93784340086574/236883
+http://www.pandar.plus:25461/02029886660921/2628382643/127666
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES" tvg-id="M.Deportes 1080", M.Deportes 1080
 acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486
@@ -601,8 +601,8 @@ acestream://1124d4366348b76a755710c8d0d5728e39d0095c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Bein France" tvg-id="Bein Sport 1 4K", Bein Sport 1 4K
 http://www.pandar.plus:25461/02029886660921/2628382643/126980
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="UK" tvg-id="BT SPORT 1 FHD", BT SPORT 1 FHD
+acestream://6adb56e860967c5b1ba08e1bcb1eb2c4245e5842
 
 
 
