@@ -49,13 +49,13 @@ acestream://
 acestream://
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M.Liga 1080 Multi", M.Liga 1080 Multi
-acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M.Liga 1080", M.Liga 1080
 acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M.Liga 720", M.Liga 720
-acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
+acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-2-1836.png" group-title="LIGA" tvg-id="M.Liga 2 1080", M.Liga 2 1080
 acestream://4229d640fecf3c0897674241bcf851b67f4310e3
