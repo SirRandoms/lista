@@ -154,7 +154,7 @@ acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
 acestream://eca5dfd22ce7fc352205749f78ac2c1dff5b5a94
 
 #EXTINF:-1 tvg-logo="https://fotografias-mega.atresmedia.com/clipping/cmsimages01/2022/07/06/F8E798E8-EDE7-413A-9D2E-AA779E299B2E/mega_27.jpg" group-title="TDT" tvg-id="Mega - 720", Mega - 720
-http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
+http://46.21.250.55:8080/jorge/jorge/93241
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="TDT" tvg-id="Toros", Toros
 http://www.pandar.plus:25461/02029886660921/2628382643/127766
@@ -310,7 +310,7 @@ http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621401.ts
 http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1171
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Movistar_Disney.svg/1200px-Movistar_Disney.svg.png" group-title="Movistar" tvg-id="Movistar Diseny+", Movistar Disney+
-http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/96838
+http://46.21.250.55:8080/jorge/jorge/93254
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Series_2_por_Movistar_Plus%2B_2022_logo.svg/205px-Series_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Series 2", Movistar Series 2
 http://31.14.41.118:8080/blacktop/k7S96HKftq/39640
