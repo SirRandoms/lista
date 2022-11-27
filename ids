@@ -298,10 +298,10 @@ acestream://51cee9d0b29dbd9104e9a3971fd2569419eab159
 acestream://b7db2c0404f90f99b01a8875713c047cd07595f7
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image41244484205.jpg" group-title="Rumania" tvg-id="Digi Sport 3", Digi Sport 3
-b9dc6fdeaca5a5f4275db80d68536e023ce4ea06
+acestream://b9dc6fdeaca5a5f4275db80d68536e023ce4ea06
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image59616610408.jpg" group-title="Rumania" tvg-id="Digi Sport 4", Digi Sport 4
-http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/99241
+http://pandar.plus:25461/2cCRxjQNdCjPuZf/vCoYkJGCkrwSajy/95549
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Clásicos", Movistar Clásicos
 http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621401.ts
@@ -358,13 +358,13 @@ acestream://b6baa046075d82da300fc1b16de96067a8b9540e
 http://46.21.250.55:8080/jorge/jorge/507250
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/1200px-Logo_Antena_1_%282010%29.svg.png" group-title="Rumania" tvg-id="Antena 1", Antena 1
-http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/99227
+acestream://b052e6c6f1dd4ffbc3d029438afd94d1ef978af0
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Antena_3_Rumania_2005.png/revision/latest?cb=20200827193717&path-prefix=es" group-title="Rumania" tvg-id="Antena 3", Antena 3
-http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/99228
+acestream://4a81d8b39f7e9cca741f6046037a8bdafce80dd0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1200px-Logo_Pro_TV_%282017%29.svg.png" group-title="Rumania" tvg-id="Pro Tv", Pro Tv
-http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/99210
+acestream://138adb254ce0d35da78982320020e5ea121b64ee
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Kanal_D_HD_2011.png/revision/latest?cb=20200814051325&path-prefix=es" group-title="Rumania" tvg-id="Kanal D HD", Kanal D HD
 http://99ab99.com:80/Veranew2701/TUzhu79ux9/78567
@@ -669,11 +669,31 @@ acestream://bc125e7047cc7a83f58ae31c213899065d88794c
 #EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 2 720 (Opción 2)", Gol Mundial 2 720 (Opción 2)
 acestream://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
 
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image67549822666.jpg" group-title="Rumania" tvg-id="TVR 1", TVR 1
+http://pandar.plus:25461/2cCRxjQNdCjPuZf/vCoYkJGCkrwSajy/95429
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/TVR-2-Logo.svg/1200px-TVR-2-Logo.svg.png" group-title="Rumania" tvg-id="TVR 2", TVR 2
+http://pandar.plus:25461/2cCRxjQNdCjPuZf/vCoYkJGCkrwSajy/95430
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/6/60/Antena_Stars_%282013-.n.v.%29.png/revision/latest?cb=20210407180539" group-title="Rumania" tvg-id="Antena Stars HD", Antena Stars HD
+http://pandar.plus:25461/2cCRxjQNdCjPuZf/vCoYkJGCkrwSajy/95439
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Digi_Film.png/1200px-Digi_Film.png" group-title="Rumania" tvg-id="Digi Film", Digi Film
+acestream://47fa841739d8585ad57d6ae1ff8abddc08bfcccc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Rumania" tvg-id="AXN Romania", AXN Romania
+http://pandar.plus:25461/2cCRxjQNdCjPuZf/vCoYkJGCkrwSajy/95449
 
 
+#EXTINF:-1 tvg-logo="https://www.cooptel.ca/wp-conten" group-title="Rumania" tvg-id="HBO HD", HBO HD
+http://pandar.plus:25461/2cCRxjQNdCjPuZf/vCoYkJGCkrwSajy/95456
+
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/HBO3_logo.png" group-title="Rumania" tvg-id="HBO 3", HBO 3
+http://pandar.plus:25461/2cCRxjQNdCjPuZf/vCoYkJGCkrwSajy/95459
 
 
-
+#EXTINF:-1 tvg-logo="https://www.realitatea.net/asset/images/logo-rnet.png" group-title="Rumania" tvg-id="Realitatea TV", Realitatea TV
+http://pandar.plus:25461/2cCRxjQNdCjPuZf/vCoYkJGCkrwSajy/95468
 
 
 
