@@ -73,13 +73,16 @@ acestream://c35d2207792128fc0ae49c40e885c463f664dbce
 acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LIGA" tvg-id="M.Liga Smartbank 1080 Multi", M.Liga Smartbank 1080 Multi
-acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
+acestream://7791ba828c0226d8f54cef1611889d29fb333247
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LIGA" tvg-id="M.Liga Smartbank 720", M.Liga Smartbank 720
-acestream://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
+acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LIGA" tvg-id="M.Liga Smartbank 2 1080", M.Liga Smartbank 2 1080
-acestream://d475208e72b5a343080afa0724c7b7c42264b9a0
+acestream://cf6249379184d88a61f9db617341c6b6e6abb342
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LIGA" tvg-id="M.Liga Smartbank 2 720", M.Liga Smartbank 2 720
+acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="DAZN" tvg-id="DAZN 1 1080", DAZN 1 1080
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
