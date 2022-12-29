@@ -66,11 +66,14 @@ acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="Dazn La Liga 1080 Multi", Dazn La Liga 1080 Multi
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="Dazn La Liga 1080 Multi", Dazn La Liga 1080 Multi
+acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="Dazn La Liga 720", Dazn La Liga 720
-acestream://c35d2207792128fc0ae49c40e885c463f664dbce
+acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="Dazn La Liga", Dazn La Liga
-acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
+acestream://
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LIGA" tvg-id="M.Liga Smartbank 1080 Multi", M.Liga Smartbank 1080 Multi
 acestream://7791ba828c0226d8f54cef1611889d29fb333247
