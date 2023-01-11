@@ -747,6 +747,54 @@ http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/368605
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png" group-title="USA" tvg-id="HBO Family", HBO Family
 http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/368606
 
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO-emblema.jpg" group-title="Latino" tvg-id="HBO", HBO
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/143881
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Latino" tvg-id="HBO 2", HBO 2
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/143882
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png" group-title="Latino" tvg-id="HBO Family", HBO Family
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/143883
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", vacio
 acestream://
