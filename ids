@@ -756,14 +756,13 @@ http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/143882
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png" group-title="Latino" tvg-id="HBO Family", HBO Family
 http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/143883
 
+#EXTINF:-1 tvg-logo="https://www.ard.de/icons/sharing-icon-1280x720.png" group-title="Alemania" tvg-id="Das Erste HD", Das Erste HD
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/370055
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRztveLlNfPR75FUihWUK286ocYPp3Z1RjSU6FjqjCqgJG3_JMnvJ3U62MSpvgoaQ8erlE&usqp=CAU" group-title="Alemania" tvg-id="ZDF HD", ZDF HD
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/370056
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="vacio", vacio
 
 
 
