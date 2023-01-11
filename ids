@@ -325,7 +325,7 @@ http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178098
 http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178098
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-zdnIW7tLWOKXewm-pFth5gt6XniJWEvGYhqMqzs4=s900-c-k-c0x00ffffff-no-rj" group-title="TDT" tvg-id="Fox FHD", Fox FHD
-http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178108
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178106
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1200px-DreamWorks_Channel_Logo.svg.png" group-title="TDT" tvg-id="Dreamworks FHD", Dreamworks FHD
 http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178178
@@ -735,17 +735,17 @@ http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178147
 http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/243743
 
 
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO-emblema.jpg" group-title="USA" tvg-id="HBO", HBO
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/368603
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="USA" tvg-id="HBO 2", HBO 2
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/368604
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/HBO_Comedy.png" group-title="USA" tvg-id="HBO Comedy", HBO Comedy
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/368605
 
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png" group-title="USA" tvg-id="HBO Family", HBO Family
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/368606
 
 
 #EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", vacio
